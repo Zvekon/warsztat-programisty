@@ -1,4 +1,4 @@
-"!/bin/bash"
+#!/bin/bash
 # Tworzy nowy folder z plikiem z kodem do sejfu
 mkdir sejf
 echo "123456" > ./sejf/kod.txt
